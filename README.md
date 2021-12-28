@@ -1,3 +1,3 @@
-# tp5-GeoLocalizacion-Backend
+# GeoLocalizacion-APP
 
-Backend para el tp de geolocalizacion
+Proyecto para administrar paises, provincias, y ciudades
